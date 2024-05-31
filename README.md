@@ -1,1 +1,1 @@
-# NestJS TypeORM Hexagonal
+# NestJS TypeORM Supabase Hexagonal
